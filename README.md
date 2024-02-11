@@ -20,6 +20,13 @@ Download remote files from Bookstack instance, that you may not have, along with
 
 ## Installing
 
+Required:
+
+```sh
+pip install pipx
+pipx ensurepath
+```
+
 Run with `pipx install .` inside the project to install to your machine.
 
 ## Config
