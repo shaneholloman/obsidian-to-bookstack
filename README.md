@@ -1,5 +1,8 @@
 # Obsidian to Bookstack Sync
 
+> [!WARNING]
+> Severly broken. Dont use!.
+
 `obsidian_to_bookstack`
 
 [[toc]]
