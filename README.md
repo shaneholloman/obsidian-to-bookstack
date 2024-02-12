@@ -1,6 +1,6 @@
 # Obsidian to Bookstack Sync
 
-> [!WARNING]
+> [!CAUTION]
 > Severly broken. Dont use!.
 
 `obsidian_to_bookstack`
